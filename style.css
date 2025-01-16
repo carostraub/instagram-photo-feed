@@ -1,0 +1,28 @@
+.body {
+  font-family: Roboto;
+}
+
+.col-4 img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  margin-bottom: 7px;
+}
+.post border {
+  border-color: rgb(226, 223, 223);
+  border-width: 2px;
+}
+.post-image {
+  width: 100%;
+  height: auto;
+}
+.post-image img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  margin-bottom: 2px;
+}
+.post-header,
+.post-footer {
+  margin: 5px;
+}
